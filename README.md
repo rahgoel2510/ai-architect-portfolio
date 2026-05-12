@@ -48,18 +48,18 @@ jupyter notebook notebooks/
 
 ## 📋 Module Overview
 
-| # | Module | Skills Learned |
-|---|--------|---------------|
-| 01 | LLM Evaluation | Model benchmarking, evaluation metrics |
-| 02 | Model Selection | Performance vs. cost trade-offs |
-| 03 | Vector Database | Embedding storage, retrieval optimization |
-| 04 | RAG Pipeline | End-to-end RAG architecture |
-| 05 | MLOps | CI/CD, drift monitoring, retraining |
-| 06 | Cloud Deployment | Serverless AI, scalability |
-| 07 | Observability | Latency, throughput, error monitoring |
-| 08 | Compliance | GDPR, secure data handling, anonymization |
-| 09 | Prompt Engineering | Reliability, bias reduction |
-| 10 | Agentic Systems | Multi-step reasoning, tool orchestration |
+| # | Module | Run in Colab |
+|---|--------|-------------|
+| 01 | LLM Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/01_llm_evaluation.ipynb) |
+| 02 | Model Selection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/02_model_selection.ipynb) |
+| 03 | Vector Database | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/03_vector_db.ipynb) |
+| 04 | RAG Pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/04_rag_pipeline.ipynb) |
+| 05 | MLOps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/05_mlops.ipynb) |
+| 06 | Cloud Deployment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/06_cloud_deployment.ipynb) |
+| 07 | Observability | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/07_observability.ipynb) |
+| 08 | Compliance | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/08_compliance.ipynb) |
+| 09 | Prompt Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/09_prompt_engineering.ipynb) |
+| 10 | Agentic Systems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rahgoel2510/ai-architect-portfolio/blob/main/notebooks/10_agentic_systems.ipynb) |
 
 ## 🛠️ Tech Stack
 
