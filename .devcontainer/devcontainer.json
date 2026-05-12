@@ -1,13 +1,15 @@
 {
   "name": "AI Architect Project",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
-  "postCreateCommand": "pip install -r requirements.txt",
+  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
   "customizations": {
     "vscode": {
-      "extensions": ["ms-toolsai.jupyter", "ms-python.python"]
+      "extensions": ["ms-toolsai.jupyter", "ms-python.python"],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python"
+      }
     }
   },
-  "forwardPorts": [8888],
   "secrets": {
     "OPENROUTER_API_KEY": {
       "description": "Free API key from https://openrouter.ai/keys"
